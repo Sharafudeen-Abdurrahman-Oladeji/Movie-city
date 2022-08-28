@@ -1,5 +1,12 @@
  <h2 align="center">Movie city</h2>
 
-  MOvie city is a fully responsive movie website page, <br />Responsive for all devices, built using HTML and CSS.
+  Movie city is a fully responsive movie website page, <br />Responsive for all devices, built using HTML and CSS.
 
-  <a href="file:///C:/Users/User/Documents/index.html"><strong>➥ Live Demo</strong></a>
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
